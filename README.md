@@ -5,6 +5,21 @@
 
 ![Обзор: статистика, динамика прибыли и цели](shots/1-overview.png)
 
+## Версия для Android
+
+Та же программа в виде APK — с мобильным интерфейсом: нижнее меню вместо боковой панели,
+сетки в две колонки, всё работает с телефона.
+
+[Скачать FlipLab-3.0.0-android.apk](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab-3.0.0-android.apk) · 16,1 МБ · Android 6.0+ ·
+SHA256 `4ECB3050CE7FC20F847AC054DF808982DDA2D55138BF736DB7899B60056750FA`
+
+Установка: скопировать APK на телефон и открыть файл (разрешить установку из неизвестных
+источников). Данные (профили, сделки, цели) хранятся в памяти приложения, живые цены
+рынка тянутся напрямую с Majestic Wiki и обновляются каждые 5 минут.
+
+![Android: обзор](shots/android-1-overview.png)
+![Android: каталог](shots/android-2-catalog.png)
+
 ## Что умеет
 
 - **Калькулятор перекупа** — цена покупки, цена продажи, комиссия, лимит комиссии, размещение.
@@ -35,8 +50,9 @@
 
 | Вариант | Файл | Размер |
 |---|---|---|
-| Установщик | [FlipLab_3.0.0_Setup.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab_3.0.0_Setup.exe) | 30,7 МБ |
-| Портативная сборка | [FlipLab.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab.exe) | 27,0 МБ |
+| Установщик (Windows) | [FlipLab_3.0.0_Setup.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab_3.0.0_Setup.exe) | 30,7 МБ |
+| Портативная сборка (Windows) | [FlipLab.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab.exe) | 27,0 МБ |
+| **Android** | [FlipLab-3.0.0-android.apk](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab-3.0.0-android.apk) | 16,1 МБ |
 | Архив для облаков | `FlipLab-3.0.0-setup-win-x64.zip` | 30,2 МБ |
 | Контрольные суммы | [SHA256SUMS.txt](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/SHA256SUMS.txt) | — |
 | Частые проблемы | [ФИКС ОШИБОК.txt](https://github.com/higes774-cmyk/FlipLab/blob/main/%D0%A4%D0%98%D0%9A%D0%A1%20%D0%9E%D0%A8%D0%95%D0%91%D0%9E%D0%9A.txt) | — |
