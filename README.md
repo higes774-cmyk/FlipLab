@@ -38,8 +38,10 @@
 | Установщик | [FlipLab_3.0.0_Setup.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab_3.0.0_Setup.exe) | 30,7 МБ |
 | Портативная сборка | [FlipLab.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab.exe) | 27,0 МБ |
 | Архив для облаков | `FlipLab-3.0.0-setup-win-x64.zip` | 30,2 МБ |
+| Контрольные суммы | [SHA256SUMS.txt](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/SHA256SUMS.txt) | — |
+| Частые проблемы | [ФИКС ОШИБОК.txt](https://github.com/higes774-cmyk/FlipLab/blob/main/%D0%A4%D0%98%D0%9A%D0%A1%20%D0%9E%D0%A8%D0%95%D0%91%D0%9E%D0%9A.txt) | — |
 
-Контрольные суммы — в [SHA256SUMS.txt](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/SHA256SUMS.txt).
+Все релизы: https://github.com/higes774-cmyk/FlipLab/releases
 
 ### Установка
 
