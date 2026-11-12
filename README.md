@@ -24,6 +24,20 @@
 установщик с GitHub, запускает его и закрывает приложение; после установки новая версия
 открывается сама. Можно и оставить прежнюю версию.
 
+## Что нового в 3.1.0
+
+- **Плотность интерфейса** — «Плотно / Обычно / Крупно», вся вёрстка масштабируется одной переменной.
+- **Тема AMOLED** — чистый чёрный фон, экономит батарею на OLED.
+- **Смысловые цвета:** зелёный — прибыль, красный — убыток, фиолетовый — рынок, янтарный — цель.
+- **«Не продавай дешевле $X»** прямо в карточке каталога.
+- **Blur-up картинок и лёгкий наклон карточек** при наведении.
+- **История цен и спарклайны** — приложение копит срезы цен, график появляется в карточке.
+- **Избранное** — звезда на карточке и вкладка «Избранное».
+- **Палитра команд Ctrl+K** — переходы и действия без мыши.
+- **Уведомления Windows о целях** — «цель на 84 % — осталось $1 234».
+- **Бэктест рынка** в аналитике — сколько бы заработал, купив вчера и продав сегодня.
+- **Синхронизация между устройствами** (ПК ↔ телефон) через приватный репозиторий GitHub.
+
 ## Версия для Android
 
 Та же программа в виде APK — с мобильным интерфейсом: нижнее меню вместо боковой панели,
@@ -69,12 +83,12 @@ SHA256 `84A5F4BD63624A41BDBD7EB1BB21C57B2F6DC0E6E66A97672E58AF42C388DEDD`
 
 | Вариант | Файл | Размер |
 |---|---|---|
-| Установщик (Windows) | [FlipLab_3.0.0_Setup.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab_3.0.0_Setup.exe) | 30,7 МБ |
-| Портативная сборка (Windows) | [FlipLab.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab.exe) | 27,0 МБ |
-| **Android** | [FlipLab-3.0.0-android.apk](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/FlipLab-3.0.0-android.apk) | 16,1 МБ |
-| Архив для облаков | `FlipLab-3.0.0-setup-win-x64.zip` | 30,2 МБ |
-| Контрольные суммы | [SHA256SUMS.txt](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.0.0/SHA256SUMS.txt) | — |
-| Частые проблемы | [ФИКС ОШИБОК.txt](https://github.com/higes774-cmyk/FlipLab/blob/main/%D0%A4%D0%98%D0%9A%D0%A1%20%D0%9E%D0%A8%D0%95%D0%91%D0%9E%D0%9A.txt) | — |
+| Установщик (Windows) | [FlipLab_3.1.0_Setup.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.1.0/FlipLab_3.1.0_Setup.exe) | 30,8 МБ |
+| Портативная сборка (Windows) | [FlipLab.exe](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.1.0/FlipLab.exe) | 27,1 МБ |
+| **Android** | [FlipLab-3.1.0-android.apk](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.1.0/FlipLab-3.1.0-android.apk) | 16,9 МБ |
+| Архив для облаков | `FlipLab-3.1.0-setup-win-x64.zip` | 30,3 МБ |
+| Контрольные суммы | [SHA256SUMS.txt](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.1.0/SHA256SUMS.txt) | — |
+| Частые проблемы | [ФИКС ОШИБОК.txt](https://github.com/higes774-cmyk/FlipLab/releases/download/v3.1.0/FIX-PROBLEMS.txt) | — |
 
 Все релизы: https://github.com/higes774-cmyk/FlipLab/releases
 
